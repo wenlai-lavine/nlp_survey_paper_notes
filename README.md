@@ -9,4 +9,4 @@ Reading notes of NLP survey papers, especialy in Machine Translation. Writing in
 
 
 ## Notes:
-    + If you find any errors in the notes, please feel free to contact me through lavine@cis.lmu.de
+If you find any errors in the notes, please feel free to contact me through [lavine@cis.lmu.de](lavine@cis.lmu.de)
