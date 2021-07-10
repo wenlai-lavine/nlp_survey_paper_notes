@@ -153,6 +153,66 @@ spectral聚类算法利用图的拉普拉斯矩阵的谱（特征值）在使用
 
 #### 6. Graph Representation Learning for NLP
 + 图表示学习的目标是找到一种方法，通过机器学习模型将图结构和属性的信息合并到低维嵌入中
-+ 
++ 6.1 GNNs for Homogeneous Graphs(同质图)
+  + **Static Graph: Treating edge information as connectivity**
+    + Converting Edge Information to Adjacent Matrix
+    + Node Representation Learning
+  + **Dynamic Graph**
+    + 旨在与下游任务共同学习图结构的动态图被图表示学习广泛采用
+  + **Graph Neural Networks: Bidirectional Graph Embeddings**
++ 6.2 Graph Neural Networks for Multi-relational Graphs
+  + 6.2.1 Multi-relational Graph formalization
+  + 6.2.2 Multi-relational Graph Neural Networks
+    + R-GCN
+    + R-GGNN
+    + R-GAT
+    + Gating Mechanism
+  + 6.2.3 **Graph Transformer**
+    + R-GAT Based Graph Transformer
+    + Structure-aware Self-attention Based Graph Transformer
++ 6.3 Graph Neural Networks for Heterogeneous Graph (异质图)
+  + 6.3.1 Levi Graph Transformation
+  + 6.3.2 Meta-Path Based Heterogeneous GNN
+    + HAN
+      + Node-level Aggregation
+      + Meta-path Level Aggregation
+    + MEIRec
+      + Node-level Aggregation
+      + Meta-path Level Aggregation
+  + 6.3.3 R-GNN Based Heterogeneous GNN
+    + HGAT
+      + Type-level learning
+      + Node-level learning
+    + MHGRN
+      + k-hop feature aggregation
+      + Fusing different relation paths
+    + HGT
+      + Attention operation
+      + Message passing operation
+      + Aggregation operation
+      + Relative Temporal Encoding
+
+#### 7. GNN Based Encoder-Decoder Models
++ 7.1 Sequence-to-Sequence Models
++ 7.2 Graph-to-Sequence Models
+  + Graph-based Encoders
+  + Node & Edge Embeddings Initialization
+  + Sequential Decoding Techniques
++ 7.3 Graph-to-Tree Models
+  + Graph construction
+  + Graph encoder
+  + Attention
+  + Tree decoder
++ 7.4 Graph-to-Graph Models
+
+#### 8. Applications
++ 8.1 Natural Language Generation
+  + 8.1.1 Neural Machine Translation (**划重点，细读**)
+  + 8.1.2 Summarization
+  
+
+  
+    
+  
     
     
