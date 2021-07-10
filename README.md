@@ -1,6 +1,8 @@
 # nlp_survey_paper_notes
 Reading notes of NLP survey papers, especialy in Machine Translation. Writing in Chinese
 
+NLP领域的综述笔记，尤其是机器翻译领域
+
 ### 1. MNMT Survey paper
 + [A Comprehensive Survey of Multilingual Neural Machine Translation](https://arxiv.org/abs/2001.01115)
 + [Reading Notes](https://github.com/lavine-lmu/nlp_survey_paper_notes/blob/main/survey_MNMT.md)
