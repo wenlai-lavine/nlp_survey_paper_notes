@@ -6,3 +6,7 @@ Reading notes of NLP survey papers, especialy in Machine Translation. Writing in
 
 ### 2. GNN in NLP Survey paper
 + [Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/pdf/2106.06090.pdf)
+
+
+## Notes:
+    + If you find any errors in the notes, please feel free to contact me through lavine@cis.lmu.de
