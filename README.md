@@ -1,5 +1,5 @@
 # nlp_survey_paper_notes
-Reading notes of NLP survey papers, especialy in Machine Translation. Writing in Chinese
+Reading notes of NLP survey papers, especialy in Machine Translation. Writing in English/Chinese
 
 NLP领域的综述笔记，尤其是机器翻译领域
 
